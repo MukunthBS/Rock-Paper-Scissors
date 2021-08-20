@@ -1,2 +1,2 @@
 # Rock-Paper-Scissors
-A simple Rock Paper Scissors game that I made when I was bored.
+A simple Rock Paper Scissors game in python that I made when I was bored.
